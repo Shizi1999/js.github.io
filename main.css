@@ -2,8 +2,8 @@ body, html{
     padding: 0;
     margin: 0;
     font-family: 'Domine', serif;
+    user-select: none;
 }
-
 .header{
     width: 100%;
     background-color: #c62642;
