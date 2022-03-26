@@ -19,4 +19,8 @@ function options() {
     })
 }
 
+function load(){
+ options();
+}
+
 options();
